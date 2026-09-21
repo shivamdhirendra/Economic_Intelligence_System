@@ -1,0 +1,18 @@
+# Raw data
+data/raw/
+
+# Jupyter notebooks
+notebooks/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
